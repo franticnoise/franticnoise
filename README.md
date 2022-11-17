@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @franticnoise
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.franticnoise.com / z1priano@gmail.com
 
 <!---
